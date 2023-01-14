@@ -1,0 +1,89 @@
+
+body {
+    background-color: #190d38;
+}
+
+/* Classes */
+.foto1 {
+    background-image: url(foto1.jpg);
+    background-size: 250px 250px;
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    margin: 2px ;
+    right: 75px;
+    border-radius: 90px;
+}
+
+/* IDS */
+
+
+#nome {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+#idade {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+#nascimento {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+#endereço {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+#telefone {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+#emailprofissional {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 2px;
+}
+
+#experiencias {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 10px;
+}
+#cursos {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 10px;
+}
+#missao {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 10px;
+}
+#projetos {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 10px;
+}
+#formaçoes {
+    color: #cccff7;
+    font-size: 30px;
+    margin: 10px;
+}
+#formataçao1 {
+    color: rgb(194, 152, 13);
+    font-size: 20px;
+    margin: 5px;
+    background-color: #00021d;
+    width: 720px;
+    border-radius: 15px;
+    padding: 5px;
+}
+p::selection {
+    color: rgb(180, 141, 12);
+    background-color: black;
+}
